@@ -23,6 +23,5 @@ The workflow reduces raw image data into principal components and uses distance 
 - scikit-learn (PCA)  
 
 ## Repo Structure
-- **`notebooks/`** → image_segmentation.ipynb
-- **`scripts/`** → individual .py files  
-- **`figures/`** → visual outputs including graphs and photos 
+- **`notebooks/`** → Jupyter notebooks for analysis and experimentation 
+- **`figures/`** → Saved outputs such as graphs and example segmentations  
